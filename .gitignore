@@ -1,0 +1,13 @@
+.idea/
+.venv/
+venv/
+env/
+**/__pycache__/
+**/migrations/*
+**/versions/*
+db.sqlite3
+.env
+
+
+.idea/
+
